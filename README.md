@@ -1,4 +1,4 @@
-# EthernautSolutions
+# Ethernaut Solutions
 
 Here are my solutions for the Ethernaut challenges.
 
